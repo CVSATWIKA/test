@@ -6,7 +6,7 @@ public class Factorial{
         }
         return fact;
     }
-    public static void main(string args[]){
+    public static void main(String args[]){
         int n=5;
         System.out.println(factorial(n));
     }
